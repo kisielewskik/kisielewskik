@@ -1,0 +1,2 @@
+When I was young, I wanted to be a developer, but my plans had to change when I met my wife. So I started my work career as a salesman. To be honest, I was pretty good at this, but it wasn't something that I liked. After some time, I decided to change it and come back to the previous idea for myself. I started learning to code systematically every day! And it was worth it! 
+Now I'm full time developer in Codetain, and this is something I like to do.
